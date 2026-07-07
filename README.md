@@ -18,3 +18,5 @@ Repo ini dibuat untuk tujuan edukasi mata kuliah Keamanan Siber — UNIVERSITAS 
 - [Log Pembelajaran Minggu 06](Minggu_06.md)
 - [Log Pembelajaran Minggu 07](Minggu_07.md)
 - [Log Pembelajaran Minggu 08](Minggu_08.md)
+
+*Status Portofolio Jurnal Belajar: Selesai diunggah secara menyeluruh.*
