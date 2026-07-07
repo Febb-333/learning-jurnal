@@ -8,3 +8,13 @@ Repo ini dibuat untuk tujuan edukasi mata kuliah Keamanan Siber — UNIVERSITAS 
 ## Struktur Utama Portofolio
 - `/docs` : Berkas writeup komprehensif berformat Markdown.
 - `/images` : Dokumentasi grafis orisinal disertai anotasi analitis.
+
+## Indeks Jurnal Mingguan
+- [Log Pembelajaran Minggu 01](Minggu_01.md)
+- [Log Pembelajaran Minggu 02](Minggu_02.md)
+- [Log Pembelajaran Minggu 03](Minggu_03.md)
+- [Log Pembelajaran Minggu 04](Minggu_04.md)
+- [Log Pembelajaran Minggu 05](Minggu_05.md)
+- [Log Pembelajaran Minggu 06](Minggu_06.md)
+- [Log Pembelajaran Minggu 07](Minggu_07.md)
+- [Log Pembelajaran Minggu 08](Minggu_08.md)
